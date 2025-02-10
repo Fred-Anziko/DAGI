@@ -5,7 +5,7 @@ anzikofred@gmail.com
 +256742453863
 #Lets Develop AGI that benefit all.
 Clone or fork this reposity, improve it and commit changes. 
-# AI Model Marketplace - Complete Guide
+# DAGI - Complete Guide
 
 ## 1. Code Architecture
 
