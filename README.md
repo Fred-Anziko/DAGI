@@ -1,10 +1,14 @@
 # DAGI
 Decentralised AI opensource development system,
+Let the community decide what AGI is!
+
 Anziko Fred
 anzikofred@gmail.com
 +256742453863
-#Lets Develop AGI that benefit all.
+#Lets Develop AGI that benefit all.improve this system for the benefit all.
 Clone or fork this reposity, improve it and commit changes. 
+# Purpose
+This system can be run by individuals on blockchain who train and own AI models that can be used, rented out, or sold to accomplish tasks and solve problems
 # DAGI - Complete Guide
 
 ## 1. Code Architecture
