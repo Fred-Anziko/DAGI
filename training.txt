@@ -1,0 +1,1 @@
+Advanced AI training example with specific domain knowledge

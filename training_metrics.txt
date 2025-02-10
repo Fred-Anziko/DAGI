@@ -1,0 +1,5 @@
+Final Accuracy: 0.128699
+Model Version: 4
+Training Iterations: 100
+Learning Rate: 0.001
+Batch Size: 64

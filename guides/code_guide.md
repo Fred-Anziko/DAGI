@@ -1,10 +1,3 @@
-# DAGI
-Decentralised AI opensource development system,
-Anziko Fred
-anzikofred@gmail.com
-+256742453863
-#Lets Develop AGI that benefit all.
-Clone or fork this reposity, improve it and commit changes. 
 # AI Model Marketplace - Complete Guide
 
 ## 1. Code Architecture
@@ -317,6 +310,3 @@ if (!ledger.verifyTransaction(transactionId)) {
 - Blockchain interface in `blockchain.hpp`
 - Model extension points in `model.hpp`
 - Agent customization in `agent.hpp`
-
-
-
